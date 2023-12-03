@@ -10,3 +10,4 @@ I am a Mechanical engineer turned Software engineer. I started my web developmen
 - 📫 How to reach me: Feel free to connect with me in any means
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know
+- I need silence to write good codes.

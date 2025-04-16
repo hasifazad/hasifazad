@@ -15,9 +15,13 @@ I'm an autodidact full-stack web developer and trainer who loves diving deep int
 
 👨‍💻 Tech Stack
 Languages: Java, C, JavaScript, TypeScript
+
 Frontend: HTML5, CSS3, Bootstrap, Tailwind CSS, ReactJS, Next.js
+
 Backend: Node.js, Express.js
+
 Databases: MongoDB, MySQL, PostgreSQL
+
 Others: Git, Nginx, AWS EC2 & S3
 
 I love writing clean, maintainable code and helping others learn to do the same.

@@ -2,15 +2,17 @@
 
 A **curious coder**, **tech educator**, and **hardware tinkerer** on a mission to build meaningful things and share what I learn along the way.
 
-🚀 Currently working as a **Full-Stack JavaScript Developer & Trainer** at **Futura Labs Technologies**, where I train aspiring developers and build real-world web applications.
+🚀 Currently working as a **Full-Stack JavaScript Developer & Trainer at Futura Labs Technologies**, where I train aspiring developers and build real-world web applications.
 
 🛠️ On the side, I'm developing a **Learning Management System (LMS)** to streamline learning experiences.
 
-💡 Recently mentored at **TinkHer**, one of Kerala’s largest women-only hackathons organized by **TinkerHub**!
+💡 I recently had the amazing opportunity to mentor at **TinkHer — one of Kerala’s largest women-only hackathons organized by TinkerHub!**
 
-⚡ I’m passionate about bridging the gap between hardware and software — exploring **microcontrollers** and how the physical world interacts with code.
+⚡ I’m also passionate about bridging the gap between hardware and software. I love experimenting with microcontrollers and exploring how the physical world interacts with code.
 
-📚 Outside of tech, I dive into **history**, **geography**, and love understanding how the world and humans have evolved.
+📚 Outside of tech, I’m deeply interested in **history**, **geography**, and learning how humans and civilizations evolved. I believe understanding the past helps shape the future — in code and in life.
+
+🔢 I'm also really good at mathematics and enjoy applying mathematical concepts to problem-solving, whether in coding, algorithms, or everyday challenges.
 
 ---
 
@@ -33,14 +35,6 @@ A **curious coder**, **tech educator**, and **hardware tinkerer** on a mission t
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hasifazad&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasifazad&theme=radical" />
-</p>
 
 ---
 
